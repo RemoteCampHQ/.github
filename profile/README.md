@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 RemoteCamp
+
+- [Website](https://beta.remote.camp)
+- [Github](https://github.com/remote-camps)
+- [Twitter](https://twitter.com/remote_camp)
+- [Discord](https://discord.gg/remotecamp)
+- [Meduim](https://medium.com/remote-camp)
 
 <!--
 
