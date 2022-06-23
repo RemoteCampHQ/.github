@@ -2,7 +2,7 @@
 
 - [Website](https://beta.remote.camp)
 - [Github](https://github.com/remote-camps)
-- [Twitter](https://twitter.com/remote_camp)
+- [Twitter](https://twitter.com/intent/follow?screen_name=remote_camp)
 - [Discord](https://discord.gg/remotecamp)
 - [Meduim](https://medium.com/remote-camp)
 
