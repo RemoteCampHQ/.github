@@ -1,12 +1,8 @@
 ## Hi there 👋 RemoteCamp
 
 - [Website](https://beta.remote.camp)
-- [Github](https://github.com/remote-camps)
-- [Twitter](https://twitter.com/intent/follow?screen_name=remote_camp)
-- [Discord](https://discord.gg/remotecamp)
-- [Telegram](https://t.me/remote_camp)
-- [Lark](https://applink.larksuite.com/client/chat/chatter/add_by_link?link_token=1c2t32e9-fc9f-4c93-9301-6762deff33cl)
-- [Meduim](https://medium.com/remote-camp)
+- Follow us on [Twitter](https://twitter.com/remote_camp)
+- Join us on [Discord](https://discord.gg/remotecamp)
 
 <!--
 
